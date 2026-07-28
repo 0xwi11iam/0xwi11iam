@@ -1,7 +1,16 @@
 ![Banner](github-header-banner.png)
 [![GitHub followers](https://img.shields.io/github/followers/0xwi11iam?style=social)](https://github.com/0xwi11iam)
 ##  Tech Stack
-
+![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-009688?style=for-the-badge&logo=cisco&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-663399?style=for-the-badge&logo=ghidra&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge&logo=virustotal&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Exploit Dev](https://img.shields.io/badge/Exploit_Development-00FF00?style=for-the-badge&logo=metasploit&logoColor=black)
+![Forensics](https://img.shields.io/badge/Forensics-FF6B00?style=for-the-badge&logo=autopsy&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-00BFFF?style=for-the-badge&logo=thespyhq&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-Scripts-4EAA25?style=for-the-badge&logo=gnu-bash)
 ![Flask](https://img.shields.io/badge/Flask-Web_UI-000000?style=for-the-badge&logo=flask)
