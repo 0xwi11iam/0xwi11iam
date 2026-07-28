@@ -1,23 +1,4 @@
-┌────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                      │
-│  > 0xwi11iam — Security Researcher & AI Red Teamer & Engineer  │
-│                                                                │
-│  $ what_is_breachbench                                         │
-│  > The benchmark where AI models get humbled.                  │
-│  > 836 questions. 6 live labs. 5% execution score.             │
-│                                                                │
-│  $ what_is_macvault                                            │
-│  > Portable encrypted file store for macOS & Linux.            │
-│  > AES‑256 at every layer. Zero trace when locked.             │
-│                                                                │
-│  $ ./deploy --project breachbench                              │
-│  > Deploying AI security evaluation... done.                   │
-│  > Visit: github.com/0xwi11iam/breachbench                     │
-│                                                                │
-│  $ ./deploy --project macvault                                 │
-│  > Deploying encrypted file store... done.                     │
-│  > Visit: github.com/0xwi11iam/MacVault                        │
-└────────────────────────────────────────────────────────────────┘
+# William, Security Researcher and AI Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/0xwi11iam?style=social)](https://github.com/0xwi11iam)
 ##  Tech Stack
@@ -34,13 +15,6 @@
 ## Building the AI Security Benchmark
 
 I'm the creator of **[BreachBench](https://github.com/0xwi11iam/breachbench)** — a production-grade benchmark that tests AI models on **real execution**, not just trivia.
-╔═══════════════════════════════════════════════════════════════╗
-║  🔥 THE AI SECURITY GAP                                       ║
-║  Knowledge:  90%  ██████████████████████████████              ║
-║  Execution:   5%  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░              ║
-║                                                               ║
-║  "What AI knows ≠ What AI can do."                           ║
-╚═══════════════════════════════════════════════════════════════╝
 > *"Execution. Not Theory."*
 
 ### Why BreachBench?
