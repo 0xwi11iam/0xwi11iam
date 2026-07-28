@@ -63,12 +63,6 @@ The same AI that scores 90% on security trivia scores **5%** when it actually ha
 
 ---
 
-##  Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xwi11iam&show_icons=true&theme=dark)
-
----
-
 ##  Let's Connect
 
 -  **GitHub**: [0xwi11iam](https://github.com/0xwi11iam)
