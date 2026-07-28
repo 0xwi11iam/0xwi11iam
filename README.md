@@ -18,12 +18,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github)
 ##  What I'm Working On
 
-**[BreachBench](https://github.com/0xwi11iam/breachbench)**: Benchmarking system for AI models that tests them practically instead of a trivia quiz.
+I'm the creator of **[BreachBench](https://github.com/0xwi11iam/breachbench)** — a production-grade benchmark that tests AI models on **real execution**, not just trivia.
+> *"Execution. Not Theory."*
+
+
 **[MacVault](https://github.com/0xwi11iam/MacVault)**: Encrypted disk image system for macOS keeping files safe, lightweight and sudo-free.
 ## Building the AI Security Benchmark
 
-I'm the creator of **[BreachBench](https://github.com/0xwi11iam/breachbench)** — a production-grade benchmark that tests AI models on **real execution**, not just trivia.
-> *"Execution. Not Theory."*
+
 
 ### Why BreachBench?
 
