@@ -25,6 +25,8 @@ I'm the creator of **[BreachBench](https://github.com/0xwi11iam/breachbench)** â
 **[MacVault](https://github.com/0xwi11iam/MacVault)**: Encrypted disk image system for macOS keeping files safe, lightweight and sudo-free.
 ## Building the AI Security Benchmark
 
+**[Medusa](https://github.com/0xwi11iam/Medusa)**: Autonomous agentic offensive security. AI agents work together and using the 40+ skills and complex ReAct framework, they can hack many labs and perform very well in CTF challenges and real bug bounty.
+
 
 
 ### Why BreachBench?
