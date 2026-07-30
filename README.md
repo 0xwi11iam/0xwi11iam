@@ -16,6 +16,9 @@
 ![Flask](https://img.shields.io/badge/Flask-Web_UI-000000?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
 ![GitHub](https://img.shields.io/badge/GitHub-Open_Source-181717?style=for-the-badge&logo=github)
+## Who I am
+I'm just a random Mac user who's obsessed with cybersecurity and AI. I build things like security products, AI automation, agentic systems open-source and I like to solve real world problems like the locked-out-of-Mac by MDM issue I experienced myself: **[MacOS Evil Maid](https://github.com/0xwi11iam/macos-evilmaid). Feel free to reach out to me on Discord as williamjiang1 (Cat pfp).
+
 ##  What I'm Working On
 
 I'm the creator of **[BreachBench](https://github.com/0xwi11iam/breachbench)** — a production-grade benchmark that tests AI models on **real execution**, not just trivia.
@@ -68,6 +71,7 @@ The same AI that scores 90% on security trivia scores **5%** when it actually ha
 
 -  **GitHub**: [0xwi11iam](https://github.com/0xwi11iam)
 -  **Email**: jiangwilliam30@gmail.com
+-  **Discord**: williamjiang1
 
 ---
 
