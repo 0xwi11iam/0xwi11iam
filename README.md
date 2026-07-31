@@ -44,9 +44,9 @@ A Rust+C reimplementation of GNU `dd` with a 5-layer safety system, risk scoring
 
 [View on GitHub](https://github.com/0xwi11iam/dd-rs)
 
-### crontastic (coming soon)
+### crontastic 
 The cron you actually want to use. Natural language scheduling, safety checks, explain mode, and AI-powered suggestions.
-
+[View on GitHub](https://github.com/0xwi11iam/crontastic)
 ---
 
 ## The BreachBench Gap
