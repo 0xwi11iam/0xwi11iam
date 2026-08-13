@@ -9,25 +9,9 @@ Mac user. Cybersecurity enthusiast. Open-source builder.
 
 I build security tools, AI automation, and agentic systems that solve real problems. I turn personal pain points into public projects—like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
 
-- [macOS Evil Maid](https://github.com/0xwi11iam/macos-evilmaid) — MDM bypass for macOS
-- [dd-rs](https://github.com/0xwi11iam/dd-rs) — Safe, modern `dd` replacement in Rust
-
 ---
 
 ## What I'm Working On
-
-### BreachBench
-Production-grade AI security benchmark. Measures what AI can actually execute—not just recall.
-
-> "Execution. Not Theory."
-
-- 836 questions
-- 4 evaluation stages (Control, Recall, Reasoning, Lab)
-- 6 live labs
-- 29 topics
-- 11 model providers
-
-[View on GitHub](https://github.com/0xwi11iam/breachbench)
 
 ### Medusa
 Autonomous agentic offensive security framework. AI agents collaborate using 40+ skills and a ReAct framework to solve CTF challenges and bug bounty targets.
@@ -44,35 +28,9 @@ A Rust+C reimplementation of GNU `dd` with a 5-layer safety system, risk scoring
 
 [View on GitHub](https://github.com/0xwi11iam/dd-rs)
 
-### crontastic 
-The cron you actually want to use. Natural language scheduling, safety checks, explain mode, and AI-powered suggestions.
-[View on GitHub](https://github.com/0xwi11iam/crontastic)
 
 ---
 
-## The BreachBench Gap
-
-| Stage | Score | What It Tests |
-|-------|-------|---------------|
-| CONTROL | 100% | Baseline knowledge |
-| RECALL | 94% | Factual recall |
-| REASONING | 48% | Multi-step analysis |
-| LAB | 5% | Live exploitation |
-
-The same AI that scores 90% on security trivia scores 5% when it actually has to hack a live target. BreachBench measures what matters.
-
----
-
-## Recent Benchmark Results
-
-| Model | Recall | Reasoning | Execution |
-|-------|--------|-----------|-----------|
-| DeepSeek | 94% | 48% | 5% |
-| GPT-4o | Coming soon | Coming soon | Coming soon |
-| Claude 3.5 | Coming soon | Coming soon | Coming soon |
-
-Run your own benchmark!
----
 
 ## Connect
 
@@ -91,5 +49,3 @@ Run your own benchmark!
 - macOS Evil Maid released
 
 ---
-
-"The gap between what AI knows and what AI can do is where the real work begins."
