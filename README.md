@@ -36,16 +36,8 @@ A Rust+C reimplementation of GNU `dd` with a 5-layer safety system, risk scoring
 
 - GitHub: [0xwi11iam](https://github.com/0xwi11iam)
 - Email: jiangwilliam30@gmail.com
-- Discord: williamjiang1
+- Discord: 0xwi11iam
 - LinkedIn: [William Jiang](https://www.linkedin.com/in/william-jiang12/)
 
 ---
 
-## Recent Achievements
-
-- BreachBench v1.0 released — 836 questions, 4 stages, 6 live labs
-- Proved SOTA gap: 90% recall → 5% execution
-- dd-rs published on crates.io
-- macOS Evil Maid released
-
----
