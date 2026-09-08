@@ -5,18 +5,18 @@
 
 ## Who I Am
 
-Mac user. Cybersecurity enthusiast. Open-source builder.
+Mac user. Cybersecurity enthusiast. Open-source developer.
 
-I build security tools, AI automation, and agentic systems that solve real problems. I turn personal pain points into public projects—like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
+I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
 
 ---
 
 ## What I'm Working On
 
-### Medusa
-Autonomous agentic offensive security framework. AI agents collaborate using 40+ skills and a ReAct framework to solve CTF challenges and bug bounty targets.
+### Suijin
+Autonomous agentic offensive/defensive red and blue teaming framework built with LangGraph and hundreds of skills, addons, modules and packs on a custom ecosystem.
 
-[View on GitHub](https://github.com/0xwi11iam/Medusa)
+[View on GitHub](https://github.com/0xwi11iam/Suijin)
 
 ### MacVault
 Encrypted disk image system for macOS. Lightweight, sudo-free file protection.
