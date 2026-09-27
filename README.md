@@ -5,9 +5,9 @@
 
 ## Who I Am
 
-Mac user. Cybersecurity enthusiast. Open-source developer.
+<img src="ham.png" align="right" width="200" alt="Hamster">Mac user. Cybersecurity enthusiast. Open-source developer.
 
-<img src="ham.png" align="right" width="200" alt="Hamster">I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
+I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
 
 ---
 
@@ -16,7 +16,7 @@ Mac user. Cybersecurity enthusiast. Open-source developer.
 ### Suijin
 Autonomous agentic offensive/defensive red and blue teaming framework built with LangGraph and hundreds of skills, addons, modules and packs on a custom ecosystem with more to come.
 
-[View on GitHub](https://github.com/0xwi11iam/Suijin)
+[View on GitHub](https://github.com0xwi11iam/Suijin)
 
 ---
 
@@ -24,6 +24,6 @@ Autonomous agentic offensive/defensive red and blue teaming framework built with
 ## Connect
 - Email: jiangwilliam30@gmail.com
 - Discord: 0xwi11iam
-- LinkedIn: [William Jiang](https://www.linkedin.com/in/william-jiang12/)
-- X: [0xwi11iam](https://www.x.com/0xwi11iam)
+- LinkedIn: [William Jiang](https://linkedin.com)
+- X: [0xwi11iam](https://x.com)
 ---
