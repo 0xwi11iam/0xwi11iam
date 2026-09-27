@@ -8,7 +8,7 @@
 Mac user. Cybersecurity enthusiast. Open-source developer.
 
 I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
-<img src="hamster.png" align="right" width="200" alt="Hamster">
+<img src="ham.png" align="right" width="200" alt="Hamster">
 ---
 
 ## What I'm Working On
