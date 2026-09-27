@@ -9,16 +9,13 @@
 
 I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
 
----
 
 ## What I'm Working On
-
 ### Suijin
 Autonomous agentic offensive/defensive red and blue teaming framework built with LangGraph and hundreds of skills, addons, modules and packs on a custom ecosystem with more to come.
 
 [View on GitHub](https://github.com0xwi11iam/Suijin)
 
----
 
 
 ## Connect
