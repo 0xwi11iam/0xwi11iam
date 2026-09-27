@@ -7,8 +7,8 @@
 
 Mac user. Cybersecurity enthusiast. Open-source developer.
 
-I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
-<img src="ham.png" align="right" width="200" alt="Hamster">
+<img src="ham.png" align="right" width="200" alt="Hamster">I build security tools, AI automation, and agentic systems that solve real problems. I turn real problems into projects, like bypassing MDM lockouts on macOS, or rebuilding `dd` in Rust so nobody accidentally wipes their SSD again.
+
 ---
 
 ## What I'm Working On
@@ -27,4 +27,3 @@ Autonomous agentic offensive/defensive red and blue teaming framework built with
 - LinkedIn: [William Jiang](https://www.linkedin.com/in/william-jiang12/)
 - X: [0xwi11iam](https://www.x.com/0xwi11iam)
 ---
-
