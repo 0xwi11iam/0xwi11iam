@@ -14,30 +14,17 @@ I build security tools, AI automation, and agentic systems that solve real probl
 ## What I'm Working On
 
 ### Suijin
-Autonomous agentic offensive/defensive red and blue teaming framework built with LangGraph and hundreds of skills, addons, modules and packs on a custom ecosystem.
+Autonomous agentic offensive/defensive red and blue teaming framework built with LangGraph and hundreds of skills, addons, modules and packs on a custom ecosystem with more to come.
 
 [View on GitHub](https://github.com/0xwi11iam/Suijin)
-
-### MacVault
-Encrypted disk image system for macOS. Lightweight, sudo-free file protection.
-
-[View on GitHub](https://github.com/0xwi11iam/MacVault)
-
-### dd-rs
-A Rust+C reimplementation of GNU `dd` with a 5-layer safety system, risk scoring, confirmation prompts, and drop-in compatibility.
-
-[View on GitHub](https://github.com/0xwi11iam/dd-rs)
-
 
 ---
 
 
 ## Connect
-
-- GitHub: [0xwi11iam](https://github.com/0xwi11iam)
 - Email: jiangwilliam30@gmail.com
 - Discord: 0xwi11iam
 - LinkedIn: [William Jiang](https://www.linkedin.com/in/william-jiang12/)
-
+- X: [0xwi11iam](https://www.x.com/0xwi11iam)
 ---
 
