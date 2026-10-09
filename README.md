@@ -12,9 +12,10 @@ I build security tools, AI automation, and agentic systems that solve real probl
 
 ## What I'm Working On
 ### Suijin
-Autonomous agentic offensive/defensive red and blue teaming framework built with LangGraph and hundreds of skills, addons, modules and packs on a custom ecosystem with more to come.
 
-[View on GitHub](https://github.com0xwi11iam/Suijin)
+Fully autonomous red teamer/ penetration testing team of agents to break into anything.
+
+[View on GitHub](https://github.com/0xwi11iam/Suijin)
 
 
 
